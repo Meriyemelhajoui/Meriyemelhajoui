@@ -1,7 +1,6 @@
-
-[![MasterHead](https://tenor.com/HzTa.gif)](https://meriyemelhajoui/github/io)
 <h1 align="center">Hi 👋, I'm Meriyem El Hajoui</h1>
 <h3 align="center">A Software Engineer Student's Quest for Knowledge and Growth</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meriyemelhajoui&label=Profile%20views&color=0e75b6&style=flat" alt="meriyemelhajoui" /> </p>
 
 - 🔭 I’m currently working on **E-commerce site for accessories**
@@ -16,9 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/
-meriyem-el-hajoui-41910119a
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meriyem el hajoui" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meriyem el hajoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meriyem el hajoui" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
