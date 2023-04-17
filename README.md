@@ -2,7 +2,6 @@
 [![MasterHead](https://tenor.com/HzTa.gif)](https://meriyemelhajoui/github/io)
 <h1 align="center">Hi 👋, I'm Meriyem El Hajoui</h1>
 <h3 align="center">A Software Engineer Student's Quest for Knowledge and Growth</h3>
-<img  align ="right" width="400" src = "https://tenor.com/fr/view/programming-gif-25868426">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meriyemelhajoui&label=Profile%20views&color=0e75b6&style=flat" alt="meriyemelhajoui" /> </p>
 
 - 🔭 I’m currently working on **E-commerce site for accessories**
