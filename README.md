@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **E-commerce website for accessories**
 
-- 🌱 I’m currently learning **Spring , Angular**
+- 🌱 I’m currently learning **Spring Boot , React js**
 
 - 👯 I’m looking to collaborate on **Java /JavaEE Projects**
 
