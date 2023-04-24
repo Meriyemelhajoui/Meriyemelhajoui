@@ -4,7 +4,7 @@
 <img align="right" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" width="300" height ="300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meriyemelhajoui&label=Profile%20views&color=0e75b6&style=flat" alt="meriyemelhajoui" /> </p>
 
-- 🔭 I’m currently working on **E-commerce website for accessories**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **Spring Boot , React js**
 
