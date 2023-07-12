@@ -5,9 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meriyemelhajoui&label=Profile%20views&color=0e75b6&style=flat" alt="meriyemelhajoui" /> </p>
 
 
-
-- 🌱 I’m currently learning **Spring Boot , React js**, **RestAPI**.
-
 - 👯 I’m looking to collaborate on **Java /JavaEE /Spring Projects**
 
 - 💬 Ask me about **Java , JavaEE**
