@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Java /JavaEE /Spring Projects**
 
-- 💬 Ask me about **Java , JavaEE**
+- 💬 Ask me about **Java , JavaEE, SpringBoot**
 
 - 📫 How to reach me **meriyemelhajoui@gmail.com**
 
